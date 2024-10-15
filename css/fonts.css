@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Nekst-Black";
+    src: url("../NEKST/Nekst-Black.ttf") format(truetype);
+    font-weight: 900;
+    font-style: bold;
+}
+
+h1{ font-family: "Nekst-Black";
+    font-size: 50px;
+}
